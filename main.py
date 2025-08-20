@@ -7,4 +7,4 @@ import os
 
 
 def configure():
-    load_dotevn()
+    load_dotenv()
